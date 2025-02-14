@@ -1,4 +1,4 @@
-# Hello, I'm Juned Khan 👋
+# Hello, I'm Juned 👋
 
 - 👨‍💻 HPC & DevOps Engineer
 - 🌱 Currently learning new technologies
