@@ -2,7 +2,6 @@
 
 - 👨‍💻 HPC & DevOps Engineer
 - 🌱 Currently learning new technologies
-- 💻 Open source contributor
 
 ### Connect with me:
 
